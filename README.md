@@ -38,7 +38,7 @@ A **Rede Virtual do Azure(VNet)** permite que os recursos do Azure se comuniquem
 
 É possível criar **pontos de extremidade públicos**, acessíveis de qualquer lugar na internet, e **pontos de extremidade privados**, acessíveis somente de dentro de sua rede.
 
-A comunicação entre recursos do Azure pode ser feita por meio de **rede virtual**, **pontos de extremidade de serviço de rede virtual** e via **Emparelhamento de rede virtual*, que conectam redes virtuais entre si.
+A comunicação entre recursos do Azure pode ser feita por meio de **rede virtual**, **pontos de extremidade de serviço de rede virtual** e via **Emparelhamento de rede virtual**, que conectam redes virtuais entre si.
 
 A comunicação com os recursos locais pode ser feita via **VPN** (rede virtual privada) ponto a site, estabelecida entre uma rede virtual e um único computador em sua rede, via **VPN site a site**, estabelecida entre seu dispositivo VPN local e um **gateway de VPN do Azure** implantado em uma rede virtual e via **Azure Express Route**, feita por uma conexão privada que não passa pela internet.
 
